@@ -1,6 +1,4 @@
 # coding=utf8
-import sys
-sys.path.append("D:\\software\\python\\lib\\site-packages\\win32\\lib")
 import pymysql.cursors
 from os.path import abspath, dirname
 import configparser as cparser
